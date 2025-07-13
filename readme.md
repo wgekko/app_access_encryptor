@@ -45,8 +45,15 @@ En caso de bloqueo, el usuario puede **reiniciar** el sistema para volver a inte
 - Python-Streamlit (framework)
 - [Opcional: framework que uses, como React o Vue]
 
-para correr la app debe hacerse desde la terminal  y escribir 
-streamlit run app.py
+para correr la app debe hacerse desde la terminal  y escribir streamlit run app.py
+
+video demo 
+
+
+
+https://github.com/user-attachments/assets/f81948f7-2095-4752-a14f-2272ea637248
+
+
 
 ## 🚀 Cómo Ejecutar
 
